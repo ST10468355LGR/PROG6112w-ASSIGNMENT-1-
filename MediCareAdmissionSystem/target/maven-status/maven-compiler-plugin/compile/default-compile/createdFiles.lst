@@ -1,0 +1,7 @@
+com\medicare\medicareadmissionsystem\MediCareAdmissionSystem.class
+com\medicare\models\Inpatient.class
+com\medicare\models\Patient.class
+com\medicare\services\BedManager.class
+com\medicare\main\HospitalAdmissionSystem.class
+com\medicare\models\PatientCategory.class
+com\medicare\services\PatientManager.class
